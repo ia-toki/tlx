@@ -67,6 +67,16 @@ Grader memiliki banyak kasus uji untuk memastikan program Anda menghasilkan solu
 
 Bila Anda kesulitan dalam mendapatkan kasus uji yang menyebabkan solusi Anda salah, bertanyalah pada forum atau grup Olimpiade Informatika Indonesia.
 
+#### Pastikan penggunaan tipe data Anda tepat.
+
+Perhatikan apakah tipe data Anda dapat menyimpan bilangan sebesar yang dibutuhkan. Sebagai catatan, berikut rentang tipe data variabel yang umum digunakan:
+
+Jenis | Nama (Pascal) | Name (C++) | Rentang
+------|---------------|------------|--------
+integer 16 bit | integer | short | -32768 .. 32767
+integer 32 bit | longint | int | -2147483648 .. 2147483647 
+integer 64 bit | int64 | long long | -9223372036854775808 .. 9223372036854775807
+
 ### Solusi saya sudah benar, mengapa masih runtime error?
 
 Periksalah apakah solusi Anda mengalami division by zero, mengakses elemen array di luar batas, menggunakan terlalu banyak memori.
