@@ -16,14 +16,14 @@ Anda dapat melaporkan isu pada TLX Training Gate ketika Anda merasa:
 
 2. Periksa apakah isu yang mirip sudah pernah dilaporkan di [daftar isu](https://github.com/ia-toki/Training-TLX/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
-  a. Bila sudah ada, artinya isu Anda sedang/sudah diselidiki dan diselesaikan. Isu Anda tidak perlu dilaporkan lagi.
-  b. Bila belum ada, tambahkan isu di [sini](https://github.com/ia-toki/Training-TLX/issues)
+   * Bila sudah ada, artinya isu Anda sedang/sudah diselidiki dan diselesaikan. Isu Anda tidak perlu dilaporkan lagi.
+   * Bila belum ada, tambahkan isu di [sini](https://github.com/ia-toki/Training-TLX/issues)
 
 3. Tuliskan judul yang deskriptif, misalnya:
 
-  * Kesalahan kasus uji soal "barisan hewan ternak"
-  * Time limit terlalu ketat untuk soal "pesta bebek"
-  * Soal "Tantangan Dengklek" ambigu
+   * Kesalahan kasus uji soal "barisan hewan ternak"
+   * Time limit terlalu ketat untuk soal "pesta bebek"
+   * Soal "Tantangan Dengklek" ambigu
 
 4. Isikan deskripsi isu Anda dengan singkat, jelas, dan padat. Cantumkan link/alamat halaman website untuk memudahkan pemeriksaan isu, seperti link menuju soal, submission (terutama untuk laporan "solusi saya sudah benar tetapi wrong answer"), dan sebagainya.
 
